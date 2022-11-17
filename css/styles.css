@@ -245,7 +245,7 @@ h2 {
 
 /* inicio media querys */
 
-@media screen and (max-width:425px){
+@media screen and (max-width:480px){
 
     *{
         margin: 0;
